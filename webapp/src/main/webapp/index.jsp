@@ -1,4 +1,4 @@
-<H1> Welcome to my test CloudAli App : )</H1>
+<H1> Welcome to my test CloudAli App!</H1>
 <form action="action_page.php">
   <div class="container">
     <h2>Signup for a New User on the CloudAli App</h2>
